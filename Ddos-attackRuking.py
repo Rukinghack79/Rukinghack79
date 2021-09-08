@@ -22,8 +22,8 @@ os.system("figlet DDos Attack")
 print "===================================="
 print "NmeByScript: RukingHacker"
 print "Acttack  : DragonForceMalaysia"
-print "github   : https://github.com/Ha3MrX"
-print "Code id  : 222121998]"
+print "github   : https://github.com/Rukinghack79/Ruking79.git"
+print "Code id  : 11111101111"
 print "===================================="
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
