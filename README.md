@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi semua 👋
 
 <!--
-**Rukinghack79/Rukinghack79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rukinghack79/Rukinghack79** 
 
 Here are some ideas to get you started:
 
