@@ -1,16 +1,20 @@
-### Hi semua 👋
+DDosTool
+python language
+How to use?
+firstly install python.
+#linux/Termux
 
-<!--
-**Rukinghack79/Rukinghack79** 
+Run terminal or termux
 
-Here are some ideas to get you started:
+command
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+git clone https://github.com/waitercinta/DDosTool.git
+cd DDosTool
+python DDosTool.py
+masukkan IP Target
+#window 7,8,10
+
+Install python dan paste di path variable
+cd file ddostool
+Run In CMD DDosTool.py
+#window10 boleh install kali wsl dan run seperti biasa..
