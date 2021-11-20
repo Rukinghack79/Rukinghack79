@@ -9,6 +9,7 @@ Run terminal or termux
 command
 
 git clone https://github.com/Rukinghack79/Rukinghack79/Ddos-attackRuking.py
+
 cd Rukinghack79
 python Ddos-attackRuking.py
 masukkan IP Target
