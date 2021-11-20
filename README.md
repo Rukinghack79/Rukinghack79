@@ -8,9 +8,9 @@ Run terminal or termux
 
 command
 
-git clone https://github.com/waitercinta/DDosTool.git
-cd DDosTool
-python DDosTool.py
+git clone https://github.com/Rukinghack79/Rukinghack79/Ddos-attackRuking.py
+cd Rukinghack79
+python Ddos-attackRuking.py
 masukkan IP Target
 #window 7,8,10
 
